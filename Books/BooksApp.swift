@@ -11,6 +11,7 @@
 // Buy me a ko-fi:  https://ko-fi.com/StewartLynch
 //----------------------------------------------
 // Copyright © 2024 CreaTECH Solutions. All rights reserved.
+// Dette er bare for å lære query og sort + filter
 
 import SwiftUI
 import SwiftData
